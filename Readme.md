@@ -27,10 +27,8 @@ DomiLux is a modern web application for exploring and showcasing luxury real est
 ### Git Clone
 ```bash
 # HTTPS
-git clone https://github.com/yourusername/domilux.git
-
-# SSH
-git clone git@github.com:yourusername/domilux.git
+git clone https://github.com/LechehebDjaafar/web-DomiLux.git
+cd web-DomiLux
 ```
 
 ## 🔧 Development Setup
@@ -40,18 +38,6 @@ git clone git@github.com:yourusername/domilux.git
 2. Open project directory
 3. Launch `index.html` in browser
 
-### Branch Management
-```bash
-# Create new feature branch
-git checkout -b feature/new-property-search
-
-# Switch between branches
-git checkout main
-git checkout feature/responsive-design
-
-# Merge changes
-git merge feature/new-branch
-```
 
 ## 🤝 Contribution Guidelines
 
@@ -77,10 +63,9 @@ git merge feature/new-branch
 - Write clean, commented JavaScript
 - Ensure cross-browser compatibility
 
-## 🎥 Project Demonstration
-[Insert Walkthrough Video URL]
+## 🎥 Project Demo
+[![Project Walkthrough](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
-## 📸 Screenshots
 ## 📸 Screenshots
 ![Home Page](img1.png)
 ![Home Page](img2.png)
@@ -98,8 +83,8 @@ git merge feature/new-branch
 - Use efficient CSS and JavaScript
 
 ## 📞 Contact
-- GitHub: [https://github.com/LechehebDjaafar]
-- Youtube: [https://www.youtube.com/@CodeCraftDL]
+- GitHub: [Lecheheb Djaafar](https://github.com/LechehebDjaafar)
+- Youtube: [CodeCraftDL](https://www.youtube.com/@CodeCraftDL)
 ## 📄 License
 MIT License - Open-source project
 
