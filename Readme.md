@@ -64,8 +64,7 @@ cd web-DomiLux
 - Ensure cross-browser compatibility
 
 ## 🎥 Project Demo
-[![Project Walkthrough](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
+[![Project Walkthrough](https://img.youtube.com/vi/lNXqM7zd3NA/0.jpg)](https://youtu.be/lNXqM7zd3NA)
 ## 📸 Screenshots
 ![Home Page](img1.png)
 ![Home Page](img2.png)
